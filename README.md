@@ -1,2 +1,2 @@
 # college
-College Name is DVVPCOEA
+college Name is DVVPCOEA
